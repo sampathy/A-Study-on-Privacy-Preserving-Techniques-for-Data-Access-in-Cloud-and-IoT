@@ -1,2 +1,2 @@
-#Research Obejective:
+# Research Obejective:
 This paper focuses on study of privacy-preserving techniques that are used for secured data access in the current emerging technologies i.e., cloud and IoT. Since cloud and IoT device(s) share the internet as a common medium for their communication, the process of accessing the data has a key role in maintaining the privacy of the user(s). Here we mainly concentrate on the working mechanism of two privacy-preserving techniques. They are k-anonymity and l-diversity.
